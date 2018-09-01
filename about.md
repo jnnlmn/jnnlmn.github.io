@@ -4,6 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<h2>Hello.</h2>
 <p>Where there is knowledge, there I am.</p>
 
 <h2>Skills</h2>
