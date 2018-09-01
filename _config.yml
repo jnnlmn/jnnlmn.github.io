@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: joannalimen
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/jnnlmn
+github: jnnlmn
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,8 @@ github: https://github.com/jnnlmn
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+500px: https://500px.com/joannalimen
+email: joannalim.en@gmail.com
 
 authors:
     johndoe:
