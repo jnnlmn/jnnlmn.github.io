@@ -8,7 +8,7 @@ description: A blog about data science and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/myAvatar.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Joanna Lim En
         bio: Constantly curious
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/myAvatar.png
 #         twitter: johndoe
 #     jamesfoster:
 #         name: James Foster
